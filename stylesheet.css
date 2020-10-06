@@ -1,0 +1,132 @@
+
+
+
+QAbstractItemView  {
+	outline: none
+	}
+
+QTabWidget  {
+	border: none
+	}
+
+
+
+
+
+
+
+QTreeWidget {
+	border: none;
+	background: #3b3b3b;
+	}
+
+
+
+
+
+
+
+QListView {
+	border: none;
+	background: #2b2b2b;
+	}
+
+
+
+
+
+
+QSlider::groove:horizontal {
+	border: none;
+	height: 12px;
+	background: #373737;
+	margin: 0px 0;
+	border-radius: 6px;
+	}
+QSlider::handle:horizontal {
+	background: #808080;
+	border: none;
+	width: 12px;
+	margin: 0px 0;
+	border-radius: 6px;
+	}
+
+
+
+
+
+
+QPushButton[objectName~="favoriteButton"] {
+	border: none;
+	background-image: url(":/Rembrandt/favorites_disabled.png");
+	background-repeat: repeat-n;
+	background-position: center;
+	}
+QPushButton::pressed[objectName~="favoriteButton"] {
+	border: none;
+	background-image: url(":/Rembrandt/favorites_enabled.png");
+	background-repeat: repeat-n;
+	background-position: center;
+	}
+QPushButton::checked[objectName~="favoriteButton"] {
+	border: none;
+	background-image: url(":/Rembrandt/favorites_enabled.png");
+	background-repeat: repeat-n;
+	background-position: center;
+	}
+
+
+
+
+
+
+QPushButton[objectName~="infoIcon"] {
+	border: none;
+	background-image: url(":/Rembrandt/info.png");
+	background-repeat: repeat-n;
+	background-position: center;
+	}
+
+
+
+
+
+
+QRadioButton::indicator[option="radio"] {
+    width: 10px;
+    height: 10px;
+	}
+QRadioButton::indicator::checked[option="radio"] {
+	background-image: url(":/Rembrandt/option_enabled.png");
+	}
+QRadioButton::indicator::unchecked[option="radio"] {
+	background-image: url(":/Rembrandt/option_disabled.png");
+	}
+QRadioButton::indicator:unchecked:hover[option="radio"] {
+	background-image: url(":/Rembrandt/option_hover.png");
+	}
+
+
+QRadioButton[off="True"]{
+	color: #505050;
+	}
+
+QLabel[off="True"]{
+	color: #505050;
+	}
+
+
+
+
+
+
+QLineEdit[objectName~="rigName"] {
+	background: rgba(0, 0, 0, 0);
+	border: none;
+	color: #ffffff;
+	}
+
+QPlainTextEdit  {
+	border: none;
+	background: rgba(0, 0, 0, 0);
+	}

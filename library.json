@@ -1,0 +1,279 @@
+{
+    "lights": {
+        "Crowd": {
+            "info": {
+                "text": ""
+            }, 
+            "items": {
+                "Group": {
+                    "tabs": {
+                        "key": [
+                            {
+                                "info": {
+                                    "date": "06.10.2020", 
+                                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                }, 
+                                "scale": [
+                                    100.0, 
+                                    100.0, 
+                                    100.0
+                                ], 
+                                "name": "Version 01", 
+                                "renderman": {
+                                    "DiskLightShape": {
+                                        "connections": [], 
+                                        "type": "PxrDiskLight", 
+                                        "settings": {
+                                            "lightColorR": {
+                                                "type": "float", 
+                                                "value": 2.0
+                                            }, 
+                                            "colorB": {
+                                                "type": "float", 
+                                                "value": 0.5
+                                            }, 
+                                            "intensity": {
+                                                "type": "float", 
+                                                "value": 2.0
+                                            }, 
+                                            "lightColorB": {
+                                                "type": "float", 
+                                                "value": 0.5
+                                            }, 
+                                            "colorR": {
+                                                "type": "float", 
+                                                "value": 2.0
+                                            }, 
+                                            "lightGroup": {
+                                                "type": "string", 
+                                                "value": "key"
+                                            }, 
+                                            "thinShadow": {
+                                                "type": "bool", 
+                                                "value": false
+                                            }, 
+                                            "primaryVisibility": {
+                                                "type": "bool", 
+                                                "value": false
+                                            }
+                                        }
+                                    }
+                                }, 
+                                "position": [
+                                    0.0, 
+                                    50.0, 
+                                    0.0
+                                ], 
+                                "ID": "944727"
+                            }
+                        ]
+                    }, 
+                    "wanted": "", 
+                    "curve": "", 
+                    "name": "Group", 
+                    "sets": {}
+                }
+            }, 
+            "name": "Crowd"
+        }, 
+        "Characters": {
+            "info": {
+                "text": ""
+            }, 
+            "items": {
+                "Name": {
+                    "tabs": {
+                        "key": [
+                            {
+                                "info": {
+                                    "date": "06.10.2020", 
+                                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                }, 
+                                "scale": [
+                                    100.0, 
+                                    100.0, 
+                                    100.0
+                                ], 
+                                "name": " Version 01", 
+                                "renderman": {
+                                    "DiskLightShape": {
+                                        "connections": [], 
+                                        "type": "PxrDiskLight", 
+                                        "settings": {
+                                            "lightColorR": {
+                                                "type": "float", 
+                                                "value": 2.0
+                                            }, 
+                                            "colorB": {
+                                                "type": "float", 
+                                                "value": 0.5
+                                            }, 
+                                            "intensity": {
+                                                "type": "float", 
+                                                "value": 2.0
+                                            }, 
+                                            "lightColorB": {
+                                                "type": "float", 
+                                                "value": 0.5
+                                            }, 
+                                            "colorR": {
+                                                "type": "float", 
+                                                "value": 2.0
+                                            }, 
+                                            "lightGroup": {
+                                                "type": "string", 
+                                                "value": "key"
+                                            }, 
+                                            "thinShadow": {
+                                                "type": "bool", 
+                                                "value": false
+                                            }, 
+                                            "primaryVisibility": {
+                                                "type": "bool", 
+                                                "value": false
+                                            }
+                                        }
+                                    }
+                                }, 
+                                "position": [
+                                    0.0, 
+                                    50.0, 
+                                    0.0
+                                ], 
+                                "ID": "971367"
+                            }, 
+                            {
+                                "info": {
+                                    "date": "06.10.2020", 
+                                    "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                }, 
+                                "scale": [
+                                    100.0, 
+                                    100.0, 
+                                    100.0
+                                ], 
+                                "name": "Version 02", 
+                                "renderman": {
+                                    "DiskLightShape": {
+                                        "connections": [], 
+                                        "type": "PxrDiskLight", 
+                                        "settings": {
+                                            "lightColorR": {
+                                                "type": "float", 
+                                                "value": 2.0
+                                            }, 
+                                            "colorB": {
+                                                "type": "float", 
+                                                "value": 0.5
+                                            }, 
+                                            "intensity": {
+                                                "type": "float", 
+                                                "value": 2.0
+                                            }, 
+                                            "lightColorB": {
+                                                "type": "float", 
+                                                "value": 0.5
+                                            }, 
+                                            "colorR": {
+                                                "type": "float", 
+                                                "value": 2.0
+                                            }, 
+                                            "lightGroup": {
+                                                "type": "string", 
+                                                "value": "key"
+                                            }, 
+                                            "thinShadow": {
+                                                "type": "bool", 
+                                                "value": false
+                                            }, 
+                                            "primaryVisibility": {
+                                                "type": "bool", 
+                                                "value": false
+                                            }
+                                        }
+                                    }
+                                }, 
+                                "position": [
+                                    0.0, 
+                                    50.0, 
+                                    0.0
+                                ], 
+                                "ID": "673145"
+                            }
+                        ], 
+                        "fill": [
+                            {
+                                "info": {
+                                    "date": "06.10.2020", 
+                                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                }, 
+                                "scale": [
+                                    100.0, 
+                                    100.0, 
+                                    100.0
+                                ], 
+                                "name": " Version 01", 
+                                "renderman": {
+                                    "DiskLightShape": {
+                                        "connections": [], 
+                                        "type": "PxrDiskLight", 
+                                        "settings": {
+                                            "lightColorR": {
+                                                "type": "float", 
+                                                "value": 2.0
+                                            }, 
+                                            "colorB": {
+                                                "type": "float", 
+                                                "value": 0.5
+                                            }, 
+                                            "intensity": {
+                                                "type": "float", 
+                                                "value": 2.0
+                                            }, 
+                                            "lightColorB": {
+                                                "type": "float", 
+                                                "value": 0.5
+                                            }, 
+                                            "colorR": {
+                                                "type": "float", 
+                                                "value": 2.0
+                                            }, 
+                                            "lightGroup": {
+                                                "type": "string", 
+                                                "value": "key"
+                                            }, 
+                                            "thinShadow": {
+                                                "type": "bool", 
+                                                "value": false
+                                            }, 
+                                            "primaryVisibility": {
+                                                "type": "bool", 
+                                                "value": false
+                                            }
+                                        }
+                                    }
+                                }, 
+                                "position": [
+                                    0.0, 
+                                    50.0, 
+                                    0.0
+                                ], 
+                                "ID": "103645"
+                            }
+                        ]
+                    }, 
+                    "wanted": "Name", 
+                    "curve": "", 
+                    "name": "Name", 
+                    "sets": [
+                        [
+                            "971367", 
+                            "103645"
+                        ]
+                    ]
+                }
+            }, 
+            "name": "Characters"
+        }
+    }
+}
